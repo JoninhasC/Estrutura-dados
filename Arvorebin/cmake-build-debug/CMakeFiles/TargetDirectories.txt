@@ -1,0 +1,3 @@
+C:/Users/jonin/OneDrive/Ambiente de Trabalho/UTFPR/Estrutura de dados Lista(2023)/Arvorebin/cmake-build-debug/CMakeFiles/Arvorebin.dir
+C:/Users/jonin/OneDrive/Ambiente de Trabalho/UTFPR/Estrutura de dados Lista(2023)/Arvorebin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonin/OneDrive/Ambiente de Trabalho/UTFPR/Estrutura de dados Lista(2023)/Arvorebin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
